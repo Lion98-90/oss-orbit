@@ -1,1 +1,4 @@
 project_id = "mytnphpqdkkwoczkxfci"
+
+[functions.search-repos]
+verify_jwt = false
